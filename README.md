@@ -12,8 +12,8 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/dante4rt/swisstronik-erc-721.git
-    cd swisstronik-erc-721
+    git clone https://github.com/Niki-eth/swisstronik-Task3.git
+    cd swisstronik-Task3
     ```
 
 2. Make the setup script executable and run it:
